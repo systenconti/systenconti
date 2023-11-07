@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Systenconti's GitHub stats](https://https://github-readme-stats-systencontis-projects.vercel.app/api?username=systenconti&show_icons=true&theme=radical)
+
 <!--
 **systenconti/systenconti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
